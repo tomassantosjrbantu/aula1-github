@@ -1,0 +1,535 @@
+Código: 255
+Producto: Tv SamSung
+Quantidade: 15
+Preço Venda: 5500
+Preço Compra: 5000
+Fornecedor: Samsung
+/nCódigo: 852
+Producto: Tv SamSung 
+Quantidade: 25
+Preço Venda: 5000
+Preço Compra: 5500
+Fornecedor: SamSung
+/nCódigo: 258
+Producto: Tv Samsung Smart
+Quantidade: 35
+Preço Venda: 6000
+Preço Compra: 6500
+Fornecedor: SamSung
+/nCódigo: 2585
+Producto: Tv Samsung
+Quantidade: 10
+Preço Venda: 4000
+Preço Compra: 4800
+Fornecedor: Tomás
+/nCódigo: 25852
+Producto: Arroz
+Quantidade: 25
+Preço Venda: 250
+Preço Compra: 300
+Fornecedor: Mercearia Mario
+/nCódigo: 8652368
+Producto: Jghbnm,
+Quantidade: 255
+Preço Venda: 52452
+Preço Compra: 45245
+Fornecedor: Mercearia Mario
+/nCódigo: 28752
+Producto: fjghjlk;'
+Quantidade: 523689
+Preço Venda: 874521
+Preço Compra: 8745210
+Fornecedor: Tomás
+/nCódigo: 5865
+Producto: ytghjlk;'jytjhb,
+Quantidade: 98656
+Preço Venda: 896523658
+Preço Compra: 26896565
+Fornecedor: Mercearia Mario
+/nCódigo: 214587
+Producto: ydtrfhujlkkjhgg
+Quantidade: 12457845
+Preço Venda: 36559856
+Preço Compra: 25
+Fornecedor: Mercearia Mario
+/nCódigo: 12478
+Producto: rdtyuhij
+Quantidade: 8448745
+Preço Venda: 455
+Preço Compra: 5485
+Fornecedor: Mercearia Mario
+/nCódigo: 25852
+Producto: ytfjhbkuhb
+Quantidade: 63226
+Preço Venda: 2651
+Preço Compra: 6835213
+Fornecedor: Mercearia Mario
+/nCódigo: 4842
+Producto: tjjlkmkjh
+Quantidade: 236
+Preço Venda: 6556
+Preço Compra: 5878
+Fornecedor: Mercearia Mario
+/nCódigo: 5454
+Producto: Samsung
+Quantidade: 152
+Preço Venda: 2500
+Preço Compra: 3000
+Fornecedor: Tomás
+/nCódigo: 152
+Producto: Arroz
+Quantidade: 260
+Preço Venda: 1300
+Preço Compra: 1500
+Fornecedor: Merec
+/nCódigo: 451
+Producto: hvjmv
+Quantidade: 5454
+Preço Venda: 69889
+Preço Compra: 5548
+Fornecedor: Mercearia Mario
+/nCódigo: 54548
+Producto: uhkbkhm
+Quantidade: 6596
+Preço Venda: 45245
+Preço Compra: 45245
+Fornecedor: Mercearia Mario
+/nCódigo: 4872
+Producto: dfhjlk;'
+Quantidade: 632689
+Preço Venda: 89652368
+Preço Compra: 6523686
+Fornecedor: Mercearia Mario
+/nCódigo: 65454
+Producto: 7846
+Quantidade: 6465
+Preço Venda: 65646
+Preço Compra: 656
+Fornecedor: Mercearia Mario
+/nCódigo: 874
+Producto: gdbukbc
+Quantidade: 545
+Preço Venda: 454
+Preço Compra: 454
+Fornecedor: Mercearia Mario
+/nCódigo: 4545
+Producto: dgavdjh
+Quantidade: 4545
+Preço Venda: 4545
+Preço Compra: 4554
+Fornecedor: Mercearia Mario
+/nCódigo: 4785421
+Producto: hfghkjlm;,
+Quantidade: 4784521
+Preço Venda: 421147
+Preço Compra: 48754210
+Fornecedor: Mercearia Mario
+/nCódigo: 842
+Producto: ukgskahgb
+Quantidade: 6596
+Preço Venda: 6856
+Preço Compra: 45854
+Fornecedor: Mercearia Mario
+/nCódigo: 4554
+Producto: jhghlamslk
+Quantidade: 543654
+Preço Venda: 96865
+Preço Compra: 6565
+Fornecedor: Mercearia Mario
+/nCódigo: 5455
+Producto: liugkuhb
+Quantidade: 28585
+Preço Venda: 4545
+Preço Compra: 45454
+Fornecedor: Tomás
+/nCódigo: 484
+Producto: kjlkm hcgh
+Quantidade: 4545
+Preço Venda: 5454
+Preço Compra: 5445
+Fornecedor: Mercearia Mario
+/nCódigo: 7
+Producto: thkjlk;
+Quantidade: 865
+Preço Venda: 986523
+Preço Compra: 125412845
+Fornecedor: Mercearia Mario
+/nCódigo: 8742
+Producto: dfhgjkl;
+Quantidade: 47
+Preço Venda: 784854
+Preço Compra: 445
+Fornecedor: Tomás
+/nCódigo: 5
+Producto: Toma
+Quantidade: 500
+Preço Venda: 153
+Preço Compra: 180
+Fornecedor: Zimpeto 
+/nCódigo: 455
+Producto: tuyiujiubygb
+Quantidade: 15
+Preço Venda: 1526
+Preço Compra: 5656
+Fornecedor: Mercearia Mario
+/nCódigo: 8742
+Producto: tfjhgascbiujh
+Quantidade: 4545
+Preço Venda: 454
+Preço Compra: 4545
+Fornecedor: Mercearia Mario
+/nCódigo: 4
+Producto: 6ygai`
+Quantidade: 7878878
+Preço Venda: 787878
+Preço Compra: 87878
+Fornecedor: Tomás
+/nCódigo: 874
+Producto: Farinha
+Quantidade: 152
+Preço Venda: 250
+Preço Compra: 300
+Fornecedor: Tomás
+/nCódigo: 22
+Producto: Arroz
+Quantidade: 250
+Preço Venda: 1000
+Preço Compra: 1200
+Fornecedor: Mercearia Mario
+/nCódigo: 526
+Producto: Arroz
+Quantidade: 250
+Preço Venda: 1000.0
+Preço Compra: 1200.0
+Fornecedor: Mercearia Mario
+/nCódigo: 25
+Producto: Farinha
+Quantidade: 250
+Preço Venda: 250.0
+Preço Compra: 300.0
+Fornecedor: Mercearia Mario
+/nCódigo: 152
+Producto: Arroz
+Quantidade: 250
+Preço Venda: 1000.0
+Preço Compra: 1200.0
+Fornecedor: Mercearia Mario
+/nCódigo: 55
+Producto:  Farinha
+Quantidade: 123
+Preço Venda: 250.0
+Preço Compra: 300.0
+Fornecedor: Mercearia Mario
+/nCódigo: 866
+Producto: lkgvujfv
+Quantidade: 485748
+Preço Venda: 542584.0
+Preço Compra: 5425425.0
+Fornecedor: Mercearia Mario
+/nCódigo: 54854
+Producto: hkhvjtg
+Quantidade: 454
+Preço Venda: 45848.0
+Preço Compra: 844368.0
+Fornecedor: Mercearia Mario
+/nCódigo: 24
+Producto: atsfasvamhb
+Quantidade: 45454
+Preço Venda: 214.0
+Preço Compra: 2145754.0
+Fornecedor: Mercearia Mario
+/nCódigo: 545
+Producto: asasafqc
+Quantidade: 45
+Preço Venda: 44545.0
+Preço Compra: 454544.0
+Fornecedor: Tomás
+/nCódigo: 542
+Producto: asash
+Quantidade: 8742
+Preço Venda: 478.0
+Preço Compra: 89652.0
+Fornecedor: Mercearia Mario
+/nCódigo: 45
+Producto: atjhakljklnk
+Quantidade: 45785
+Preço Venda: 542114.0
+Preço Compra: 48742.0
+Fornecedor: Mercearia Mario
+/nCódigo: 125
+Producto: tkgjljhjtrhtfjhb
+Quantidade: 89645
+Preço Venda: 98645.0
+Preço Compra: 98645.0
+Fornecedor: Mercearia Mario
+/nCódigo: 22
+Producto: gykhjhn
+Quantidade: 455
+Preço Venda: 54545.0
+Preço Compra: 45555.0
+Fornecedor: Tomás
+/nCódigo: 784
+Producto: dtfjklk;nikujytjh
+Quantidade: 454
+Preço Venda: 5454.0
+Preço Compra: 5454.0
+Fornecedor: Mercearia Mario
+/nCódigo: 25
+Producto: uoiuiuiu
+Quantidade: 568965
+Preço Venda: 85689.0
+Preço Compra: 452454.0
+Fornecedor: Tomás
+/nCódigo: 4545
+Producto: utghkjnbthgfmh
+Quantidade: 65546
+Preço Venda: 49848.0
+Preço Compra: 4544.0
+Fornecedor: Mercearia Mario
+/nCódigo: 122
+Producto: vgjvgjhvjg
+Quantidade: 155
+Preço Venda: 54.0
+Preço Compra: 54.0
+Fornecedor: Tomás
+/nCódigo: 4545
+Producto: rtjghyjtfjgmhj
+Quantidade: 656
+Preço Venda: 874.0
+Preço Compra: 7854.0
+Fornecedor: Mercearia Mario
+/nCódigo: 454
+Producto: ykghjoik,b
+Quantidade: 252
+Preço Venda: 36.0
+Preço Compra: 323.0
+Fornecedor: Mercearia Mario
+/nCódigo: 454
+Producto: tyfgjhbjnkm 
+Quantidade: 45
+Preço Venda: 45.0
+Preço Compra: 45.0
+Fornecedor: Mercearia Mario
+/nCódigo: 48
+Producto: hthbjn
+Quantidade: 4874
+Preço Venda: 999.0
+Preço Compra: 999.0
+Fornecedor: Tomás
+/nCódigo: 20
+Producto: kbhjgvhgv
+Quantidade: 65
+Preço Venda: 65.0
+Preço Compra: 3.0
+Fornecedor: Tomás
+/nCódigo: 22
+Producto: tjfgkhn
+Quantidade: 565
+Preço Venda: 333.0
+Preço Compra: 555.0
+Fornecedor: Mercearia Mario
+/nCódigo: 23
+Producto: asasasasa
+Quantidade: 2
+Preço Venda: 32.0
+Preço Compra: 65.0
+Fornecedor: Mercearia Mario
+/nCódigo: 152
+Producto: ytgjhknm
+Quantidade: 123
+Preço Venda: 123.0
+Preço Compra: 123.0
+Fornecedor: Mercearia Mario
+/nCódigo: 258
+Producto: tfuyjghgbj
+Quantidade: 565
+Preço Venda: 263.0
+Preço Compra: 366.0
+Fornecedor: Mercearia Mario
+/nCódigo: 452
+Producto: ftjghkn
+Quantidade: 521
+Preço Venda: 7896.0
+Preço Compra: 154.0
+Fornecedor: Mercearia Mario
+/nCódigo: 45
+Producto: ujghjfgdf
+Quantidade: 4554
+Preço Venda: 45445.0
+Preço Compra: 4545.0
+Fornecedor: Tomás
+/nCódigo: 8745
+Producto: uftrfgjhkl;'
+Quantidade: 454
+Preço Venda: 4545.0
+Preço Compra: 44545.0
+Fornecedor: Mercearia Mario
+/nCódigo: 444
+Producto: dfhgjbknlm
+Quantidade: 32
+Preço Venda: 652.0
+Preço Compra: 653.0
+Fornecedor: Mercearia Mario
+/nCódigo: 65
+Producto: tuykhjlkjhgu
+Quantidade: 226
+Preço Venda: 55565.0
+Preço Compra: 2123.0
+Fornecedor: Mercearia Mario
+/nCódigo: 120
+Producto: jghvhgfgjvh
+Quantidade: 56
+Preço Venda: 451.0
+Preço Compra: 245.0
+Fornecedor: Tomás
+/nCódigo: 852
+Producto: tfhjgghrtfghg
+Quantidade: 66
+Preço Venda: 896.0
+Preço Compra: 9663.0
+Fornecedor: Mercearia Mario
+/nCódigo: 442
+Producto: ugjkhmnkjk
+Quantidade: 556
+Preço Venda: 845.0
+Preço Compra: 7854.0
+Fornecedor: Mercearia Mario
+/nCódigo: 78
+Producto: urtfjghkl
+Quantidade: 6565
+Preço Venda: 100.0
+Preço Compra: 150.0
+Fornecedor: Mercearia Mario
+/nCódigo: 22
+Producto: tfjghmnbhvggf
+Quantidade: 48
+Preço Venda: 45.0
+Preço Compra: 50.0
+Fornecedor: Tomás
+/nCódigo: 454
+Producto: oiugkh
+Quantidade: 45
+Preço Venda: 45.0
+Preço Compra: 100.0
+Fornecedor: Mercearia Mario
+/nCódigo: 454
+Producto: fjghkjl
+Quantidade: 15
+Preço Venda: 50.0
+Preço Compra: 100.0
+Fornecedor: Tomás
+/nCódigo: 10
+Producto: FDHBFMMJ
+Quantidade: 15
+Preço Venda: 50.0
+Preço Compra: 100.0
+Fornecedor: Mercearia Mario
+/nCódigo: 15
+Producto: rhgfnmvhmtgv
+Quantidade: 45
+Preço Venda: 50.0
+Preço Compra: 100.0
+Fornecedor: Mercearia Mario
+/nCódigo: 156
+Producto: hjgjvjhbn m
+Quantidade: 15
+Preço Venda: 50.0
+Preço Compra: 100.0
+Fornecedor: Tomás
+/nCódigo: 45
+Producto: tjfgjvgh
+Quantidade: 15
+Preço Venda: 15.0
+Preço Compra: 50.0
+Fornecedor: Mercearia Mario
+/nCódigo: 15
+Producto: ghvjhnng,hbh
+Quantidade: 25
+Preço Venda: 40.0
+Preço Compra: 50.0
+Fornecedor: Tomás
+/nCódigo: 454
+Producto: tjfgvjythgv
+Quantidade: 15
+Preço Venda: 40.0
+Preço Compra: 50.0
+Fornecedor: Mercearia Mario
+/nCódigo: 56
+Producto: thrfjghjvhnthfgcbghtfng
+Quantidade: 10
+Preço Venda: 40.0
+Preço Compra: 50.0
+Fornecedor: Mercearia Mario
+/nCódigo: 85
+Producto: jhtfcgrhtfgcvgrhtfg
+Quantidade: 15
+Preço Venda: 40.0
+Preço Compra: 50.0
+Fornecedor: Mercearia Mario
+/nCódigo: 552
+Producto: tmjghbvhgj,m
+Quantidade: 56
+Preço Venda: 40.0
+Preço Compra: 50.0
+Fornecedor: Mercearia Mario
+/nCódigo: 54
+Producto: tujfgmvhtdc
+Quantidade: 40
+Preço Venda: 40.0
+Preço Compra: 50.0
+Fornecedor: Tomás
+/nCódigo: 45
+Producto: fgvhbhnhgnbv
+Quantidade: 10
+Preço Venda: 10.0
+Preço Compra: 20.0
+Fornecedor: Tomás
+/nCódigo: 45
+Producto: ythjfgcbvjyt
+Quantidade: 50
+Preço Venda: 40.0
+Preço Compra: 50.0
+Fornecedor: Mercearia Mario
+/nCódigo: 52
+Producto: rthgfbvgbc
+Quantidade: 15
+Preço Venda: 40.0
+Preço Compra: 50.0
+Fornecedor: Mercearia Mario
+/nCódigo: 45
+Producto: trghfcvtrdfcvb
+Quantidade: 15
+Preço Venda: 40.0
+Preço Compra: 50.0
+Fornecedor: Mercearia Mario
+/nCódigo: 41
+Producto: Arroz
+Quantidade: 15
+Preço Venda: 1100.0
+Preço Compra: 1200.0
+Fornecedor: Mercearia Mario
+/nCódigo: 42
+Producto: Farinha
+Quantidade: 20
+Preço Venda: 250.0
+Preço Compra: 300.0
+Fornecedor: Mercearia Mario
+/nCódigo: 42
+Producto: Arroz
+Quantidade: 15
+Preço Venda: 1100.0
+Preço Compra: 1200.0
+Fornecedor: Mercearia Mario
+/nCódigo: 45
+Producto: Farinha
+Quantidade: 20
+Preço Venda: 250.0
+Preço Compra: 300.0
+Fornecedor: Mercearia Mario
+/nCódigo: 15
+Producto: Celular 
+Quantidade: 30
+Preço Venda: 3000.0
+Preço Compra: 3500.0
+Fornecedor: Electronico
+/n
